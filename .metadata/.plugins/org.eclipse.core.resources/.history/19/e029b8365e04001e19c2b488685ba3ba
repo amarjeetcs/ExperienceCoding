@@ -1,0 +1,15 @@
+package com.amarjeet.common;
+
+abstract class AbstractClass {
+	abstract void run();
+	public void eat()
+	{
+		System.out.println("I am eating...");
+	}
+}
+class Test{
+	public static void main(String[] args) {
+		Test ab=new Test();
+		System.out.println(ab.run());
+	}
+}

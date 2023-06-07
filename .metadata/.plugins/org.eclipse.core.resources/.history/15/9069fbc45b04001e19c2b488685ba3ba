@@ -1,0 +1,9 @@
+package com.amarjeet.common;
+
+public class StringPractical {
+	public static void main(String[] args) {
+		String str="amarjeet";
+		
+	}
+
+}

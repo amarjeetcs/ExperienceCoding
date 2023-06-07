@@ -1,0 +1,14 @@
+package com.amarjeet.array;
+
+public class Palimdrome {
+	public static void main(String[] args) {
+		int x=555;
+		int rev=0;
+		int org_rev=rev;
+		while(x>0)
+		{
+			rev=rev+
+		}
+	}
+
+}

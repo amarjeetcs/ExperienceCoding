@@ -1,0 +1,10 @@
+package com.amarjeet.common;
+
+public class StringPractical {
+	public static void main(String[] args) {
+		String str="amarjeet";
+		System.out.println(str.length());
+		System.out.println(str.isEmpty());
+	}
+
+}
